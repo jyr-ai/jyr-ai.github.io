@@ -1,0 +1,184 @@
+/**
+* CSS file to hold styles that apply across the application
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Montserrat:wght@200;400;600;800&display=swap");
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  font-family: "Cormorant Garamond", serif;
+}
+
+#App {
+  min-height: 200vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+section {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+section.dark {
+  min-height: 100vh;
+  color: white;
+  background: rgba(0, 0, 0, 0.25);
+}
+
+section.light {
+  min-height: 100vh;
+  color: black;
+  background: rgba(255, 255, 255, 0.35);
+}
+
+section.black {
+  color: white;
+  background: black;
+  min-height: 100vh;
+}
+
+section.white {
+  color: black;
+  background: white;
+  min-height: 100vh;
+}
+
+section img.background {
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  pointer-events: none;
+  object-fit: cover;
+  object-position: center;
+}
+
+h1 {
+  font-weight: 300;
+  font-size: 3.5rem;
+  margin: 0;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin: 0;
+  text-align: center;
+}
+
+@media screen and (min-width: 377px) {
+  h1 {
+    font-size: 4rem;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+}
+
+@media screen and (min-width: 422px) {
+  h1 {
+    font-size: 5rem;
+  }
+
+  h2 {
+    font-size: 2.5rem;
+  }
+}
+
+@media screen and (min-width: 821px) {
+  h1 {
+    font-size: 6rem;
+  }
+
+  h2 {
+    font-size: 2.5rem;
+  }
+}
+
+@media screen and (min-width: 1282px) {
+  h1 {
+    font-size: 7rem;
+  }
+
+  h2 {
+    font-size: 3rem;
+  }
+}
+
+h3 {
+  font-weight: 400;
+  font-size: 1.25rem;
+  margin: 0;
+}
+
+p {
+  font-size: 1.125rem; 
+  line-height: 1.5;
+  margin-bottom: 0;
+  font-weight: 300;
+}
+
+p.large {
+  font-size: 1.5rem; 
+}
+
+p.small {
+  font-size: 1.25rem; 
+}
+
+p.bold {
+  font-weight: 600;
+}
+
+hr {
+  margin: 2.5rem;
+}
+
+a {
+  text-decoration: underline;
+  color: #242d57;
+}
+
+a:hover {
+  color: rgba(0, 0, 0, 0.25);
+}
+
+div.center-flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.button {
+  background-color: #4e567e;
+  color: white;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  margin: 1rem auto 0;
+  border-radius: 5px;
+  transition: background-color 0.3s ease, opacity 0.3s ease, visibility 0.3s ease;
+  cursor: pointer;
+  border: none;
+  opacity: 1;
+  visibility: visible;
+  font-weight: 400;
+}
+
+.button:hover {
+  background-color: #3c415c;
+  text-decoration: none;
+  color: white;
+}
