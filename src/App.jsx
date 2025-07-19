@@ -20,10 +20,10 @@ function App() {
           <Route path="/" element={
             <>
               <Seo
-                title="Christopher Carroll Smith"
-                description="Website of Christopher Carroll Smith, software architect, data storyteller, and president of Promptly Technologies, LLC."
+                title="Jianyin Roachell"
+                description="Website of Jianyin Roachell, software architect, data storyteller, Human-centered AI consultant."
                 type="website"
-                name="Christopher Carroll Smith"
+                name="Jianyin Roachell"
               />
               <Home />
               <About />
