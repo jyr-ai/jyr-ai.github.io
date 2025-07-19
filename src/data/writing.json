@@ -1,9 +1,9 @@
 [
   {
-    "title": "A Knowledge Workers' Guide to the Singularity",
-    "description": "A Substack newsletter on staying employed in knowledge work amid major technological disruption by AI",
+    "title": "Weekly ChinAInvesta Newsletter",
+    "description": "A Substack newsletter on highlighting 3 Chinese-owned stocks",
     "buttonText": "Substack",
-    "url": "https://knowledgeworkersguide.substack.com/"
+    "url": "https://chinainvesta.substack.com/"
   },
   {
     "title": "Modeling Markets",
@@ -21,6 +21,6 @@
     "title": "Academic CV",
     "description": "Peer-reviewed publications and other academic work",
     "buttonText": "PDF",
-    "url": "documents/CurriculumVitae.pdf"
+    "url": "documents/CurriculumVitae2.pdf"
   }
 ]
