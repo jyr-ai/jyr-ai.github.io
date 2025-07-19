@@ -1,10 +1,10 @@
 [
   {
     "name": "home",
-    "src": "images/Chris_landscape.jpg",
+    "src": "images/jianyin_landing.png",
     "shade": "dark",
     "adjustment": "-20%",
-    "alt": "Photograph of Christopher Smith in a plum suit outside a beautiful inn"
+    "alt": "Photograph of jianyin"
   },
   {
     "name": "about",
