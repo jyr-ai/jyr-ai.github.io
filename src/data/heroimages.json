@@ -32,8 +32,8 @@
   },
   {
     "name": "book",
-    "src": "images/putty.png",
-    "shade": "light",
+    "src": "",
+    "shade": "white",
     "alt": "Light gray putty applied to a wall with artful wavy strokes"
   }
 ]
