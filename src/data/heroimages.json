@@ -1,7 +1,7 @@
 [
   {
     "name": "home",
-    "src": "images/vitruvian3",
+    "src": "images/vitruvian3.png",
     "shade": "dark",
     "adjustment": "-20%",
     "alt": "Photograph of jianyin"
@@ -15,7 +15,7 @@
   {
     "name": "projects",
     "src": "images/jian_headshot2.png",
-    "shade": "dark",
+    "shade": "light",
     "alt": "Violet flowers against a black backdrop"
   },
   {
