@@ -1,46 +1,30 @@
 [
   {
-    "category": "Web applications",
+    "category": "Data Science & Forecasting",
     "projects": [
       {
-        "title": "Furn-E",
-        "url": "https://github.com/TeamZombies/furne_frontend",
-        "description": "Interior design AI image generator with product image search",
-        "img": "furne-desktop.jpg",
-        "icon-overlay": "AECTech-ribbon-optimized.svg"
+        "title": "Volunteer Data Science for Social Good",
+        "url": "https://dssg-berlin.org/",
+        "img": "dssg_logo.png",
+        "description": "Pro Bono Tech Consulting for non-profits with data challenges"
+      
       },
       {
-        "title": "SessionScribe",
-        "url": "https://github.com/chriscarrollsmith/session-scribe",
-        "description": "AI transcribe-to-print pipeline",
-        "img": "sessionscribe-desktop.png",
-        "icon-overlay": "Epson-ribbon-optimized.svg"
-      },
-      {
-        "title": "Promptly Technologies, LLC website",
-        "url": "https://promptlytechnologies.com",
-        "description": "Comic book-style Typescript React website with Zazzle product syndication",
-        "img": "promptly-desktop.png"
+        "title": "Policybot Labs",
+        "url": "https://github.com/jyr-ai/policybot2020",
+        "description": "Computational Social Science Research",
+        "img": "policybot.png"
       }
+
     ]
   },
   {
-    "category": "Utilities",
+    "category": "Agentic AI Workflow Automation",
     "projects": [
       {
-        "title": "epson-connect-js",
-        "url": "https://github.com/chriscarrollsmith/epson-connect-js",
-        "description": "Javascript client library for working with the Epson Connect API"
-      },
-      {
-        "title": "imfp / imfr",
-        "url": "https://github.com/chriscarrollsmith/imfp",
-        "description": "Python and R client libraries for working with the International Monetary Fund Data API"
-      },
-      {
-        "title": "dir-diary",
-        "url": "https://github.com/Promptly-Technologies-LLC/dir-diary",
-        "description": "AI-powered project folder summarization and documentation tool"
+        "title": "ChinAInvesta",
+        "url": "https://chinainvesta.substack.com/about",
+        "description": "Deploying AI agents to conduct financial research for active investment"
       }
     ]
   }

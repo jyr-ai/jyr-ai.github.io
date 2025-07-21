@@ -1,7 +1,7 @@
 [
   {
     "name": "home",
-    "src": "images/matrix_city.png",
+    "src": "images/vitruvian3",
     "shade": "dark",
     "adjustment": "-20%",
     "alt": "Photograph of jianyin"
@@ -14,7 +14,7 @@
   },
   {
     "name": "projects",
-    "src": "images/violetflowers1.png",
+    "src": "images/jian_headshot2.png",
     "shade": "dark",
     "alt": "Violet flowers against a black backdrop"
   },
