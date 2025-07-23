@@ -7,12 +7,6 @@
     "alt": "Photograph of jianyin"
   },
   {
-    "name": "about",
-    "src": "images/motion-background.jpg",
-    "shade": "light",
-    "alt": "Gray abstract background"
-  },
-  {
     "name": "projects",
     "src": "images/matrix_city.png",
     "shade": "light",

@@ -30,7 +30,6 @@ const Header = () => {
   return (
     <div id="header">
       <a href="/#home" onClick={(e) => handleAnchorClick(e, '#home')}>Home</a>
-      <a href="/#about" onClick={(e) => handleAnchorClick(e, '#about')}>About</a>
       <a href="/#projects" onClick={(e) => handleAnchorClick(e, '#projects')}>Projects</a>
       <a href="/#writing" onClick={(e) => handleAnchorClick(e, '#writing')}>Writing</a>
       <a href="/#book" onClick={(e) => handleAnchorClick(e, '#book')}>Book a Meeting</a>

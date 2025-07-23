@@ -2,7 +2,6 @@ import { Route, Routes } from 'react-router-dom';
 import './App.css';
 import Header from './components/Header';
 import Home from './components/Home';
-import About from './components/About';
 import ProjectFeature from './components/ProjectFeature';
 import Projects from './components/Projects';
 import Writing from './components/Writing';
@@ -26,7 +25,6 @@ function App() {
                 name="Jianyin Roachell"
               />
               <Home />
-              <About />
               <Projects />
               <ProjectFeature />
               <Writing />
