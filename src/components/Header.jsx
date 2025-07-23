@@ -33,7 +33,6 @@ const Header = () => {
       <a href="/#projects" onClick={(e) => handleAnchorClick(e, '#projects')}>Projects</a>
       <a href="/#writing" onClick={(e) => handleAnchorClick(e, '#writing')}>Writing</a>
       <a href="/#book" onClick={(e) => handleAnchorClick(e, '#book')}>Book a Meeting</a>
-      <NavLink to="/blog">Blog</NavLink>
     </div>
   );
 };
