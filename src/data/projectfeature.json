@@ -1,6 +1,6 @@
 {
-  "portraitImage": {"alt": "Mockup of Scribert app on a mobile device", "src": "images/mobile-mockup2.png"},
+  "portraitImage": {"alt": "Photo of Jian", "src": "images/jyr_landing.jpg"},
   "landscapeImage": {"alt": "", "src": ""},
-  "callToAction": "Get your AI agent workflow today, created by Jianyin Roachell: try <a href='https://www.linkedin.com/in/jianyin-roachell/'>Scribert</a> today with promo code 'NEWALPHAUSER' and get 100% off your first month!",
-  "buttonText": "Sign up"
+  "callToAction": "My name is Jianyin R. Call me Jian.  I have amassed almost a decade of Data Science experience specializing from ML model building to analytics products engineering. I have a passion for helping creatives achieving their goals while maintaining what makes them human: their inspiration. On my spare time, I dedicate my time to Pro Bono data consulting for non-profits around New York City.",
+  "buttonText": "If you are a creative and want to learn how I can solve your data and automation issues, please book a meeting and fill out this form to tell me more about yourself."
 }
