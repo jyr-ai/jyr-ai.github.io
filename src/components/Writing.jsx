@@ -16,7 +16,7 @@ const Writing = () => {
         {writingData.map((writing, index) => (
           <Card key={index} project={writing} />
         ))}
-        < />
+        <SubscribeForm />
       </div>
     </section>
   );
