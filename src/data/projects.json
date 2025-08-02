@@ -4,8 +4,8 @@
     "projects": [
       {
         "title": "Volunteer Data Science for Social Good",
-        "url": "https://dssg-berlin.org/",
-        "img": "",
+        "url": "https://dssg-nyc.github.io/",
+        "img": "logo3.png",
         "description": "Pro Bono Tech Consulting for non-profits with data challenges"
       
       },
@@ -23,7 +23,8 @@
     "projects": [
       {
         "title": "ChinAInvesta",
-        "url": "https://chinainvesta.substack.com/about",
+        "url": "https://youtu.be/Zyd75DVX5PY?si=5T8p4SBzrxsaUMXM",
+        "img": "background1.png",
         "description": "Deploying AI agents to conduct financial research for active investment"
       }
     ]

@@ -1,26 +1,26 @@
 [
   {
     "name": "home",
-    "src": "images/vitruvian2.png",
+    "src": "images/vitruvian3.png",
     "shade": "dark",
     "adjustment": "-20%",
-    "alt": "Photograph of jianyin"
+    "alt": "Photograph"
   },
   {
     "name": "projects",
-    "src": "images/matrix_city.png",
-    "shade": "light",
-    "alt": "Violet flowers against a black backdrop"
+    "src": "images/motion-background.jpg",
+    "shade": "dark",
+    "alt": " "
   },
   {
     "name": "project-feature",
     "src": "",
-    "shade": "dark",
+    "shade": "light",
     "alt": ""
   },
   {
     "name": "writing",
-    "src": "images/cityscape.png",
+    "src": "images/jyr-ai_reseacherAI.png",
     "shade": "dark",
     "alt": "Cityscape seen from above through a purple haze"
   },

@@ -11,7 +11,13 @@ const Card = ({ project }) => (
       </div>
       {project.img && (
         <div className="image-section">
-          <img src={`/images/${project.img}`} alt={project.title} />
+          {project.url.includes('https://www.youtube.com/watch?v=Zyd75DVX5PY&ab_channel=JianyinRoachell') ? (
+            <a href={project.url} target="_blank" rel="noopener noreferrer">
+              <img src={project.img} alt={project.title} />
+            </a>
+          ) : (
+            <img src={`/images/${project.img}`} alt={project.title} />
+          )}
         </div>
       )}
       <div className={`body-section ${project.img ? 'with-image' : ''}`}>
