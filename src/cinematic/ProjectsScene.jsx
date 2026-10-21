@@ -19,24 +19,21 @@ export default function ProjectsScene() {
         amplify creative work, not replace it.
       </p>
 
-      <div className="scene" style={{ marginBottom: '3.5rem' }}>
-        <div className="scene__copy" data-anim="left" data-delay="1">
-          <p style={{ color: 'var(--muted)', fontSize: '1.05rem', lineHeight: 1.6 }}>
-            The builder at the terminal — between panels of code and craft, a studio
-            where research becomes product.
-          </p>
-        </div>
-        <div className="scene__media" data-anim="right" data-delay="2">
-          <video
-            src={CLIP}
-            poster="images/jyr-ai_reseacherAI.png"
-            muted
-            loop
-            autoPlay
-            playsInline
-            preload="metadata"
-          />
-        </div>
+      <div
+        className="scene__media"
+        data-anim="scale"
+        data-delay="1"
+        style={{ marginBottom: '3.5rem' }}
+      >
+        <video
+          src={CLIP}
+          poster="images/jyr-ai_reseacherAI.png"
+          muted
+          loop
+          autoPlay
+          playsInline
+          preload="metadata"
+        />
       </div>
 
       {projectsData.map((group) => (
