@@ -22,14 +22,7 @@ export default function AboutStrip() {
           <p className="about__body" data-anim data-delay="1">
             {feature.callToAction}
           </p>
-          <p
-            className="about__body"
-            data-anim
-            data-delay="2"
-            style={{ fontSize: '1.15rem', color: 'var(--muted)', marginTop: '1.4rem' }}
-            dangerouslySetInnerHTML={{ __html: aboutData.description }}
-          />
-          <div className="about__skills" data-anim data-delay="3">
+          <div className="about__skills" data-anim data-delay="2">
             {aboutData.skills.map((skill) => (
               <span key={skill}>{skill}</span>
             ))}
